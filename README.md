@@ -6,6 +6,7 @@
 **1.	Problem Statement**
 The business is testing two versions of a website (Version A and Version B) to determine which version leads to better user conversion.
 Users were randomly exposed to either version, and their engagement and conversion behavior were recorded.
+
 The problem is to identify which website version performs better based on user behavior and conversion outcomes,
 and to provide a data driven recommendation that supports business decision making.
 
